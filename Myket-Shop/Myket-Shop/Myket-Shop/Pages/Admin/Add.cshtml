@@ -1,0 +1,90 @@
+﻿@page
+@model Myket_Shop.Pages.Admin.AddModel
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Admin";
+}
+
+
+<div class="main-panel">
+    <div class="main-content">
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                <!--Statistics cards Starts-->
+
+                <section id="shopping-cart">
+                    <div class="row">
+
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <div class="card-title-wrap bar-success">
+                                            <h4 class="card-title mb-0">ورودی متن</h4>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="px-3">
+                                            <form method="post" enctype="multipart/form-data" class="form">
+                                                <div class="form-body">
+                                                    <div class="row">
+                                                        <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                                                            <fieldset class="form-group">
+                                                                <label asp-for="Product.Name" for="roundText"></label>
+                                                                <input asp-for="Product.Name" type="text" id="roundText" class="form-control round">
+                                                                <span asp-validation-for="Product.Name"></span>
+                                                            </fieldset>
+                                                        </div>
+                                                        <br />
+                                                        <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                                                            <fieldset class="form-group">
+                                                                <label asp-for="Product.Price" for="roundText"></label>
+                                                                <input asp-for="Product.Price" type="number" id="roundText" class="form-control round">
+                                                                <span asp-validation-for="Product.Price"></span>
+                                                            </fieldset>
+                                                        </div>
+                                                        <br />
+                                                        <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                                                            <fieldset class="form-group">
+                                                                <label asp-for="Product.QuantityInStock" for="roundText"></label>
+                                                                <input asp-for="Product.QuantityInStock" type="number" id="roundText" class="form-control round">
+                                                                <span asp-validation-for="Product.QuantityInStock"></span>
+                                                            </fieldset>
+                                                        </div>
+                                                        <br />
+                                                        <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                                                            <fieldset class="form-group">
+                                                                <label asp-for="Product.Picture" for="roundText"></label>
+                                                                <input asp-for="Product.Picture" class="form-control round">
+                                                                <span asp-validation-for="Product.Picture"></span>
+                                                            </fieldset>
+                                                        </div>
+                                                        <br />
+                                                    </div>
+                                                    <fieldset class="form-group">
+                                                        <label asp-for="Product.Description" for="basicTextarea"></label>
+                                                        <textarea asp-for="Product.Description " class="form-control" id="basicTextarea" rows="3"></textarea>
+                                                        <span asp-validation-for="Product.Description"></span>
+                                                    </fieldset>
+                                                    <br />
+                                                </div>
+                                                <div class="col-xl-4 col-lg-6 col-md-12 mb-1">
+                                                        <input type="submit" class="btn btn-sm btn-outline-success round mb-0" value="ثبت"></input>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>

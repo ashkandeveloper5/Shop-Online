@@ -1,0 +1,132 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Myket_Shop
+build_property.RootNamespace = Myket_Shop
+build_property.ProjectDir = C:\Users\Mr.Robot\source\repos\ashkandeveloper5\Shop-Online\Myket-Shop\Myket-Shop\Myket-Shop\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mr.Robot\source\repos\ashkandeveloper5\Shop-Online\Myket-Shop\Myket-Shop\Myket-Shop
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/Admin/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/ManageUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/ManageUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/ManageUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/ManageUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/ManageUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Account/Wellcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxXZWxsY29tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Home/ShowCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Product/ShowProductByGroupId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdEJ5R3JvdXBJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Shared/_BoxProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3hQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Shared/_Groups.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Hcm91cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mr.Robot/source/repos/ashkandeveloper5/Shop-Online/Myket-Shop/Myket-Shop/Myket-Shop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

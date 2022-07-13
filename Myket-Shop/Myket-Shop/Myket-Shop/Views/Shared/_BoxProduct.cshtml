@@ -1,0 +1,37 @@
+﻿@model Product
+
+
+<div class="owl-item active">
+    <div class="owl-item active">
+        <div class="item">
+            <a asp-action="Detail" asp-controller="Home" asp-route-id="@Model.Id" class="d-block hover-img-link">
+                <img src="/dimage/@(Model.Id).jpg"
+                     class="img-fluid" alt="">
+
+
+            </a>
+            <h2 class="post-title">
+                <a href="#">
+                    @Model.Name
+                </a>
+            </h2>
+         @*   <div class="price">
+                 <del><span>@Model.Item.Price<span>تومان</span></span></del>
+                 <ins><span> بدون تخفیف <span>تومان</span></span></ins>
+             </div>*@
+            <div class="actions">
+                <ul>
+                    <li class="action-item like">
+                        <a class="btn btn-light add-product-wishes fa fa-heart-o" type="submit" ></a>
+                    </li>
+                    <li class="action-item compare">
+                        <a class="btn btn-light btn-compare fa fa-random" type="submit" ></a>
+                    </li>
+                    <li>
+                        <a asp-action="AddToCart" asp-controller="Home" asp-route-itemId="@Model.ItemId" class="btn btn-light fa fa-shopping-cart" type="submit" ></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

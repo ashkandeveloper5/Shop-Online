@@ -1,0 +1,43 @@
+﻿@page
+@model Myket_Shop.Pages.Admin.DeleteModel
+@{
+}
+<div class="main-panel">
+    <div class="main-content">
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                <!--Statistics cards Starts-->
+
+                <section id="shopping-cart">
+                    <div class="row">
+
+
+                        <div class="row">
+                            <div class="col-xl-3 col-lg-6 col-md-12">
+                                <div class="card">
+                                    <div class="card-body">
+                                        <div class="form-body">
+
+                                            <dt>
+                                                <img class="card-img-top img-fluid" src="/dimage/@(Model.Product.Id).jpg" alt="Card image cap">
+                                            </dt>
+                                            <div class="card-block">
+                                                <label asp-for="Product.Name" class="card-title"></label>
+                                                <p class="card-text"></p><p class="textalign">
+                                                   @Model.Product.Description
+                                                </p><p></p>
+                                                <form enctype="multipart/form-data" method="post">
+                                                    <input type="hidden" asp-for="Product.Id" />
+                                                  <button  class="btn btn-sm btn-outline-danger round mb-0">حذف</button>
+                                                </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>

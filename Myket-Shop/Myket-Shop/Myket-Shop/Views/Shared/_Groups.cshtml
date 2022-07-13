@@ -1,0 +1,15 @@
+﻿@using Myket_Shop.Data.Repositories
+@inject IGroupRepository GroupRepository;
+
+
+
+    @foreach (var item in GroupRepository.GetAllCategories())
+    {
+        <li id="nav-menu-item" class="menu-item nav-overlay">
+            <a href="/Group/@item.Id/@item.Name" class="current-link-menu">
+                @item.Name
+            </a>
+        </li>
+    }
+
+
